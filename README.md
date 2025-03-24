@@ -1,6 +1,10 @@
 
 # Smart Log - Trading Journal Application
 
+## Project URL:
+
+https://github.com/JoshDreckmeyr-IU/DLBCSPJWD01-
+
 ## Project Overview
 
 Smart Log is a comprehensive trading journal application that helps traders track, analyze, and improve their trading performance. The application provides tools for recording trades, visualizing performance metrics, and receiving trade recommendations.
