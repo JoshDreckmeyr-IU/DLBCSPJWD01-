@@ -35,7 +35,7 @@ To run this project locally:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/JoshDreckmeyr-IU/DLBCSPJWD01-
 
 # Step 2: Navigate to the project directory
 cd smart-log
